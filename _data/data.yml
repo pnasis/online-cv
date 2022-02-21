@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://iosifidis.github.io/online-cv/Efstathios_Iosifidis_Resume.pdf
+    pdf: http://iosifidis.github.io/online-cv/files/Efstathios_Iosifidis_Resume.pdf
 
     languages:
       - idiom: Greek
@@ -37,14 +37,21 @@ sidebar:
 
 
     interests:
-      - item: Reading
+      - item: open source comminities
         link:
 
-      - item: Walking
-        link:
+      - item: openSUSE
+        link: https://www.opensuse.org/
 
-      - item: Cooking
-        link:
+      - item: GNOME
+        link: https://www.gnome.org/
+
+      - item: Nextcloud
+        link: https://www.nextcloud.com/
+        
+      - item: GNU Health
+        link: https://www.gnuhealth.org/  
+
 
 career-profile:
     title: Career Profile
@@ -56,9 +63,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Applied Informatics - Information Systems
+      university: University of Macedonia (UoM)
+      time: 2020 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,55 +74,43 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Junior Software Developer
+      university: 6th Vocational School of Thessaloniki
+      time: 2017 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Describe your study here
+    - degree: Veterinarian
+      university: Aristotele University of Thessaloniki
+      time: 2004 - 2017
+      details: |
+        Describe your study here
+    - degree: Farm Animal Manager
+      university: Technological Institution of Thessaloniki
+      time: 1993 - 1999
+      details: |
+        Describe your study here                    
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Veterinarian
+      time: 2017 - Present
+      company: Freelancer, Thessaloniki
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Pathologist, Anaesthesiologist, Web designer and content creator for many veterinary practices.
+    - role: Northern Greece rep
+      time: 2018 - Present
+      company: Petmobility.gr
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Web page design and social media management. Representative in N. Greece
+    - role: Office employee at wholesale warehouse
+      time: 2004 - 2005
+      company: Nino Toys, Thessaloniki
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Invoicing and order preparation, contact with suppliers abroad for container preparation
+    - role: Military Service
+      time: 1999 - 2001
+      company: Greek Army
+      details: |
+        Confidential
+        
 projects:
     title: Projects
     intro: >
