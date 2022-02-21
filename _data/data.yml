@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: stathis@iosifidis.gr
-    phone: 012 345 6789
+    phone: ask
     citizenship:
     website: eiosifidis.blogspot.com #do not add http://
     linkedin: eiosifidis
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://iosifidis.github.io/online-cv/Efstathios_Iosifidis_Resume.pdf
 
     languages:
       - idiom: Greek
@@ -169,23 +169,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: C
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
