@@ -56,10 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I was always dreaming to become an IT guy, either as a free agent or be part of a big company. It seemed like an inappropriate dream given my diploma as a farm animal manager and later as a veterinarian. I gravitated toward veterinary jobs both in my city and to the capital but I kind of felt meh. I yearned to learn more, yearned to learn something different because of my involvement in open source communities and the philosophy behind it. Creating content in Greek, translating and talking to open source conferences, and organizing events were my volunteer activities for the community, but I wanted more.
-      And that's when it happened, the spark I was missing ignited. I joined an evening vocational high school where my amazing teachers were there to teach me HTML, CSS, database (MySQL), PHP, and my all-time favorite Python. They encourage me to take exams for higher education, which I did and I passed to my first choice and also as first with the highest grades to the [University of Macedonia, Applied Informatics - Information Systems](https://www.uom.gr/en/dai).
-      So far I have C, Java, Python, SQL, HTML, CSS, and Git/GitHub under my belt.
-      To sum up, some words that characterize me are Cloud enthusiast, religious about Linux, open-source supporter. Writes human-readable code. Passionate open-source content creator. Loves learning and sharing knowledge. Excellent team player.
+      Cloud enthusiast, religious about Linux, open-source supporter. Writes human-readable code. Passionate open-source content creator. Loves learning and sharing knowledge. Excellent team player.
 
 education:
     - degree: Applied Informatics - Information Systems
@@ -67,19 +64,7 @@ education:
       time: 2020 - present
       details: |
         **Classes**   
-        - C,   
-        - Algorithms, 
-        - Mathematical analysis, 
-        - Linear algebra, 
-        - Computer systems, 
-        - Management information systems, 
-        - Introduction to computer science,  
-	- Data structures with C,  
-	- Discrete mathematics,  
-	- Data base with MySQL,  
-	- Computer architecture,  
-	- Probabilities and statistics,  
-	- Management and technology  
+        - C, Algorithms, Mathematical analysis, Linear algebra, Computer systems, Management information systems, Introduction to computer science, Data structures with C, Discrete mathematics, Data base with MySQL, Computer architecture, Probabilities and statistics, Management and technology, Computer networks, Information systems, Operating systems, Object oriented programming, Financial accounting, E-Business, Informatics Law and Ethics.
 	
     - degree: Junior Software Developer
       university: 6th Vocational School of Thessaloniki
