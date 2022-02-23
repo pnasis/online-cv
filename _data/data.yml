@@ -69,21 +69,20 @@ education:
       university: University of Macedonia (UoM)
       time: 2020 - present
       details: |
-        **First semester:** 
-        - C, 
+        **Classes**   
+        - C,   
         - Algorithms, 
         - Mathematical analysis, 
         - Linear algebra, 
         - Computer systems, 
         - Management information systems, 
-        - Introduction to computer science  
-	**Second semester:**
-	- Data structures with C,
-	- Discrete mathematics,
-	- Data base with MySQL,
-	- Computer architecture,
-	- Probabilities and statistics,
-	- Management and technology
+        - Introduction to computer science,  
+	- Data structures with C,  
+	- Discrete mathematics,  
+	- Data base with MySQL,  
+	- Computer architecture,  
+	- Probabilities and statistics,  
+	- Management and technology  
 	
     - degree: Junior Software Developer
       university: 6th Vocational School of Thessaloniki
