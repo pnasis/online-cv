@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Efstathios Iosifidis, DVM
-    tagline: Junior Software Developer
+    tagline: Junior Software Developer, Content Creator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: stathis@iosifidis.gr
     phone: ask
     citizenship:
-    website: eiosifidis.blogspot.com #do not add http://
+    website: iosifidis.gr #do not add http://
     linkedin: eiosifidis
     xing: 
     github: iosifidis
@@ -37,7 +37,7 @@ sidebar:
 
 
     interests:
-      - item: open source comminities
+      - item: Traveling
         link:
 
       - item: openSUSE
@@ -56,24 +56,32 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I was always dreaming to become an IT guy, either as a free agent or be part of a big company. It seemed like an inappropriate dream given my diploma as a farm animal manager and later as a veterinarian. I gravitated toward veterinary jobs both in my city and to the capital but I kind of felt meh. I yearned to learn more, yearned to learn something different because of my involvement in open source communities and the philosophy behind it. Creating content in Greek, translating and talking to open source conferences, and organizing events were my volunteer activities for the community, but I wanted more.
+
+And that's when it happened, the spark I was missing ignited. I joined an evening vocational high school where my amazing teachers were there to teach me HTML, CSS, database (MySQL), PHP, and my all-time favorite Python. They encourage me to take exams for higher education, which I did and I passed to my first choice and also as first with the highest grades to the [University of Macedonia, Applied Informatics - Information Systems](https://www.uom.gr/en/dai).
+
+So far I have C, Java, Python, SQL, HTML, CSS, and Git/GitHub under my belt.
 education:
     - degree: Applied Informatics - Information Systems
       university: University of Macedonia (UoM)
       time: 2020 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        **First semester:** 
+        - C, 
+        - Algorithms, 
+        - Mathematical analysis, 
+        - Linear algebra, 
+        - Computer systems, 
+        - Management information systems, 
+        - Introduction to computer science  
+	**Second semester:**
+	- Data structures with C,
+	- Discrete mathematics,
+	- Data base with MySQL,
+	- Computer architecture,
+	- Probabilities and statistics,
+	- Management and technology
+	
     - degree: Junior Software Developer
       university: 6th Vocational School of Thessaloniki
       time: 2017 - 2020
@@ -164,6 +172,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: HTML5 & CSS
+        level: 95%
+
       - name: Python
         level: 90%
 
@@ -173,8 +184,17 @@ skills:
       - name: C
         level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Git
+        level: 90%
+
+      - name: Docker
+        level: 70%
+
+      - name: SQL
+        level: 85%          
+
+      - name: Linux
+        level: 95%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
