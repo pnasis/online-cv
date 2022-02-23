@@ -61,6 +61,9 @@ career-profile:
 And that's when it happened, the spark I was missing ignited. I joined an evening vocational high school where my amazing teachers were there to teach me HTML, CSS, database (MySQL), PHP, and my all-time favorite Python. They encourage me to take exams for higher education, which I did and I passed to my first choice and also as first with the highest grades to the [University of Macedonia, Applied Informatics - Information Systems](https://www.uom.gr/en/dai).
 
 So far I have C, Java, Python, SQL, HTML, CSS, and Git/GitHub under my belt.
+
+To sum up, some words that characterize me are Cloud enthusiast, religious about Linux, open-source supporter. Writes human-readable code. Passionate open-source content creator. Loves learning and sharing knowledge. Excellent team player.
+
 education:
     - degree: Applied Informatics - Information Systems
       university: University of Macedonia (UoM)
@@ -179,10 +182,13 @@ skills:
         level: 90%
 
       - name: Java
-        level: 70%
+        level: 80%
 
       - name: C
-        level: 80%
+        level: 85%
+        
+      - name: PHP
+        level: 60%             
 
       - name: Git
         level: 90%
