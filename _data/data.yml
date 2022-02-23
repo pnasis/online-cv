@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Efstathios Iosifidis, DVM
-    tagline: Junior Software Developer, Content Creator
+    tagline: Junior Software Developer, Content Creator, Open Source Community Building
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -107,6 +107,15 @@ projects:
     intro: >
       Open source volunteering tasks.
     assignments:
+
+      - title: Member of Open Source Team, University of Macedonia
+        link: "http://opensource.uom.gr"
+        tagline: "Founding member of the open source team at University of Macedonia"
+    
+      - title: Raspberry Pi Greek translation coordinator
+        link: "http://rpf.io/translate"
+        tagline: "Link between Greek translators and Raspberry Pi Foundation"     
+    
       - title: FOSSCOMM organizing committee
         link: "https://2021.fosscomm.gr/"
         tagline: "FOSSCOMM is an annual conference organized by Greek Free/Open Source Software communities. Taking place in a different city every year, it welcomes open technology communities, companies and programmers."
@@ -117,15 +126,27 @@ projects:
 
       - title: Google Summer of Code mentor
         link: "https://summerofcode.withgoogle.com/projects/#4606264338808832"
-        tagline: "Google Summer of Code mentor with Open Technologies Aliance - GFOSS. Mentor of Fani Dimou. <br> Title: The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options"
+        tagline: "Google Summer of Code mentor with Open Technologies Aliance - GFOSS. Mentor of Fani Dimou. <br> <b>Title:</b> The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Member of the openSUSE Travel Support Program committee
+        link: "https://en.opensuse.org/openSUSE:Travel_Support_Program"
+        tagline: "The openSUSE Travel Support Program aims to support contributors representing openSUSE at events, conferences and hack-fests with their travel and hotel costs."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Nextcloud Contributor, Greek translation coordinator, Engagement team, Event organization
+        link: "http://nextcloud.gr"
+        tagline: "Main activities: translation, speak at conferences, blogging about Nextcloud, organize events, volunteer at conferences"
+        
+      - title: GNOME Contributor, Greek translation coordinator, Engagement team, Event organization
+        link: "http://gnome.gr"
+        tagline: "Main activities: translation, speak at conferences, blogging about GNOME, organize events, volunteer at conferences"
+
+      - title: ownCloud Contributor, Greek translation coordinator, Engagement team, Event organization
+        link: "http://owncloud.com"
+        tagline: "Main activities: translation, speak at conferences, blogging about ownCloud, organize events, volunteer at conferences"
+        
+      - title: openSUSE Contributor, Greek translation coordinator, Advocate, Event organization
+        link: "http://opensuse.gr"
+        tagline: "Main activities: translation, speak at conferences, blogging about openSUSE, organize events, volunteer at conferences"        
 
 publications:
     title: Publications
@@ -134,20 +155,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "By contributing localizations you can make ownCloud even more accessible!"
+        link: "https://owncloud.com/news/by-contributing-localizations-you-can-make-owncloud-even-more-accessible/"
+        authors: Katrin Giza
+        conference: "ownCloud"    
+    
+      - title: "Meet the GNOMEies Efstathios Iosifidis"
+        link: "https://blogs.gnome.org/engagement/2020/05/29/meet-the-gnomeies-efstathios-iosifidis/"
+        authors: mdeblanc
+        conference: "GNOME"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "ONLYOFFICE contributor community: Interview with Stathis Iosifidis"
+        link: "https://www.onlyoffice.com/blog/uk/2018/11/onlyoffice-contributor-community-interview-with-stathis-iosifidis/"
+        authors: Ksenija Fedoruk
+        conference: "ONLYOFFICE"
 
 skills:
     title: Skills &amp; Proficiency
