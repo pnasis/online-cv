@@ -63,24 +63,22 @@ education:
       university: University of Macedonia (UoM)
       time: 2020 - present
       details: |
-        **Classes**   
-        - C, Algorithms, Mathematical analysis, Linear algebra, Computer systems, Management information systems, Introduction to computer science, Data structures with C, Discrete mathematics, Data base with MySQL, Computer architecture, Probabilities and statistics, Management and technology, Computer networks, Information systems, Operating systems, Object oriented programming, Financial accounting, E-Business, Informatics Law and Ethics.
-	
+        Skils: C, Algorithms, Mathematical analysis, Linear algebra, Computer systems, Management information systems, Introduction to computer science, Data structures with C, Discrete mathematics, Data base with MySQL, Computer architecture, Probabilities and statistics, Management and technology, Computer networks, Information systems, Operating systems, Object oriented programming, Financial accounting, E-Business, Informatics Law and Ethics.	
     - degree: Junior Software Developer
       university: 6th Vocational School of Thessaloniki
       time: 2017 - 2020
       details: |
-        Describe your study here
+        Skils: Python, SQL, PHP, HTML, CSS
     - degree: Veterinarian
       university: Aristotele University of Thessaloniki
       time: 2004 - 2017
       details: |
-        Describe your study here
+        Skils: Small and Farm animal pathologist, Food inspector
     - degree: Farm Animal Manager
       university: Technological Institution of Thessaloniki
       time: 1993 - 1999
       details: |
-        Describe your study here                    
+        Skils: Farm management                    
 experiences:
     - role: Veterinarian
       time: 2017 - Present
