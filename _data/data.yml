@@ -79,6 +79,7 @@ education:
       time: 1993 - 1999
       details: |
         Skils: Farm management                    
+
 experiences:
     - role: Veterinarian
       time: 2017 - Present
@@ -89,7 +90,7 @@ experiences:
       time: 2018 - Present
       company: Petmobility.gr
       details: |
-        Web page design and social media management. Representative in N. Greece
+        Web page design and social media management. Representative in Northern Greece
     - role: Office employee at wholesale warehouse
       time: 2004 - 2005
       company: Nino Toys, Thessaloniki
@@ -102,23 +103,21 @@ experiences:
         Confidential
         
 projects:
-    title: Projects
+    title: Volunteer
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Open source volunteering tasks.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: FOSSCOMM organizing committee
+        link: "https://2021.fosscomm.gr/"
+        tagline: "FOSSCOMM is an annual conference organized by Greek Free/Open Source Software communities. Taking place in a different city every year, it welcomes open technology communities, companies and programmers."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: GUADEC organizing committee
+        link: "https://2019.guadec.org/"
+        tagline: "GUADEC, the GNOME Users And Developers European Conference, is an annual conference taking place in Europe, whose prime topic is the development of the GNOME desktop environment and its underlying base software."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Google Summer of Code mentor
+        link: "https://summerofcode.withgoogle.com/projects/#4606264338808832"
+        tagline: "Google Summer of Code mentor with Open Technologies Aliance - GFOSS. Mentor of Fani Dimou. <br> Title: The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options"
 
       - title: Atom
         link: "#"
