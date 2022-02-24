@@ -180,25 +180,25 @@ skills:
         level: 95%
 
       - name: Python
-        level: 90%
-
-      - name: Java
         level: 80%
 
+      - name: Java
+        level: 75%
+
       - name: C
-        level: 85%
+        level: 80%
         
       - name: PHP
-        level: 60%             
+        level: 40%             
 
       - name: Git
         level: 90%
 
       - name: Docker
-        level: 70%
+        level: 50%
 
       - name: SQL
-        level: 85%          
+        level: 80%          
 
       - name: Linux
         level: 95%        
