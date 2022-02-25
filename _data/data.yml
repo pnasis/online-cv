@@ -124,18 +124,6 @@ projects:
         link: "http://rpf.io/translate"
         tagline: "Link between Greek translators and Raspberry Pi Foundation"     
 
-      - title: Google Summer of Code mentor
-        link: "https://summerofcode.withgoogle.com/projects/#4606264338808832"
-        tagline: "Google Summer of Code mentor with Open Technologies Aliance - GFOSS. Mentor of Fani Dimou. <br> <b>Title:</b> The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options"
-
-      - title: Member of the openSUSE Travel Support Program committee
-        link: "https://en.opensuse.org/openSUSE:Travel_Support_Program"
-        tagline: "The openSUSE Travel Support Program aims to support contributors representing openSUSE at events, conferences and hack-fests with their travel and hotel costs."
-
-      - title: GNU Health contributor
-        link: "https://www.gnuhealth.org/"
-        tagline: "The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine."
-
       - title: Nextcloud Contributor, Greek translation coordinator, Engagement team, Event organization
         link: "http://nextcloud.gr"
         tagline: "Main activities: translation, speak at conferences, blogging about Nextcloud, organize events, volunteer at conferences"
@@ -150,7 +138,19 @@ projects:
         
       - title: openSUSE Contributor, Greek translation coordinator, Advocate, Event organization
         link: "http://opensuse.gr"
-        tagline: "Main activities: translation, speak at conferences, blogging about openSUSE, organize events, volunteer at conferences"        
+        tagline: "Main activities: translation, speak at conferences, blogging about openSUSE, organize events, volunteer at conferences" 
+
+      - title: Member of the openSUSE Travel Support Program committee
+        link: "https://en.opensuse.org/openSUSE:Travel_Support_Program"
+        tagline: "The openSUSE Travel Support Program aims to support contributors representing openSUSE at events, conferences and hack-fests with their travel and hotel costs."
+
+      - title: GNU Health contributor
+        link: "https://www.gnuhealth.org/"
+        tagline: "The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine."
+
+      - title: Google Summer of Code mentor
+        link: "https://summerofcode.withgoogle.com/projects/#4606264338808832"
+        tagline: "Google Summer of Code mentor with Open Technologies Aliance - GFOSS. Mentor of Fani Dimou. <br> <b>Title:</b> The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options"
 
 publications:
     title: Interviews
