@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: stathis@iosifidis.gr
-    phone: ask
-    citizenship:
+    phone: +306999311075
+    citizenship: Greek
     website: iosifidis.gr #do not add http://
     linkedin: eiosifidis
     xing: 
@@ -38,6 +38,9 @@ sidebar:
 
     interests:
       - item: Traveling
+        link:
+
+      - item: Technology
         link:
 
       - item: openSUSE
@@ -157,10 +160,10 @@ publications:
     intro: |
       My interviews
     papers:
-      - title: "By contributing localizations you can make ownCloud even more accessible!"
-        link: "https://owncloud.com/news/by-contributing-localizations-you-can-make-owncloud-even-more-accessible/"
-        authors: Katrin Giza
-        conference: "ownCloud"    
+#      - title: "By contributing localizations you can make ownCloud even more accessible!"
+#        link: "https://owncloud.com/news/by-contributing-localizations-you-can-make-owncloud-even-more-accessible/"
+#        authors: Katrin Giza
+#        conference: "ownCloud"    
     
       - title: "Meet the GNOMEies Efstathios Iosifidis"
         link: "https://blogs.gnome.org/engagement/2020/05/29/meet-the-gnomeies-efstathios-iosifidis/"
