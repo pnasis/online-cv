@@ -156,24 +156,29 @@ projects:
         tagline: "<b>Title:</b> The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options. <b>Student:</b> Fani Dimou"
 
 publications:
-    title: Interviews
+    title: Certifications
     intro: |
-      My interviews
+      My major certifications among others.
     papers:
-      - title: "By contributing localizations you can make ownCloud even more accessible!"
-        link: "https://owncloud.com/news/by-contributing-localizations-you-can-make-owncloud-even-more-accessible/"
-        authors: Katrin Giza
-        conference: "ownCloud"    
+      - title: "CyberOps Associate"
+        link: "https://www.credly.com/badges/460b76d9-0f9f-4d99-889d-1d2f6c24dd4a"
+        authors: Cisco
+        conference: "Cisco"    
     
-      - title: "Meet the GNOMEies Efstathios Iosifidis"
-        link: "https://blogs.gnome.org/engagement/2020/05/29/meet-the-gnomeies-efstathios-iosifidis/"
-        authors: mdeblanc
-        conference: "GNOME"
+      - title: "Basic principles of digital marketing"
+        link: 
+        authors: Google
+        conference: "Google"
 
-      - title: "ONLYOFFICE contributor community: Interview with Stathis Iosifidis"
-        link: "https://www.onlyoffice.com/blog/uk/2018/11/onlyoffice-contributor-community-interview-with-stathis-iosifidis/"
-        authors: Ksenija Fedoruk
-        conference: "ONLYOFFICE"
+      - title: "Gamification as tool for health professionals for psychosomatic support of patients"
+        link: "https://6epal-esp-thess.gr/article.php?id=20"
+        authors: ERASMUS +
+        conference: "ERASMUS +"
+        
+      - title: "Quality assurance at small industry and food industry (HACCP-ISO 9000,14000-AGRO 2.1-2.2)"
+        link: "https://www.afs.edu.gr/"
+        authors: American Farm School
+        conference: "American Farm School"        
 
 skills:
     title: Skills &amp; Proficiency
