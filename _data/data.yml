@@ -160,13 +160,14 @@ publications:
     intro: |
       My major certifications among others.
     papers:
+    
       - title: "CyberOps Associate"
         link: "https://www.credly.com/badges/460b76d9-0f9f-4d99-889d-1d2f6c24dd4a"
         authors: Cisco
         conference: "Cisco"    
     
       - title: "Basic principles of digital marketing"
-        link: 
+        link: "#"
         authors: Google
         conference: "Google"
 
