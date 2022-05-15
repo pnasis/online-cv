@@ -19,7 +19,7 @@ sidebar:
     linkedin: Prodromos Nasis
     xing: 
     github: pnasis
-    telegram: Prodromos Nasis # add your nickname without '@' sign
+    #telegram: Prodromos Nasis # add your nickname without '@' sign
     gitlab: pnasis
     bitbucket:
     twitter: '@ProdromosNasis'
@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Cyber Security guy, Open-Source supporter, Problem solving abilities, interested in learning and sharing knowledge. Excellent team player.
+      Cyber Security guy, Open-Source supporter, Problem solving abilities, interested in learning and sharing knowledge. Also interested in docker, cryptography and networking. Excellent team player.
 
 education:
     - degree: Applied Informatics - Information Management Systems
