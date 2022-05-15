@@ -43,7 +43,8 @@ sidebar:
       - item: Technology
         link:
         
-      - item: Cyber Security
+      - item: Music
+        link:
 
 
 career-profile:
@@ -52,11 +53,11 @@ career-profile:
       Cloud enthusiast, open-source supporter. Writes human-readable code. Loves learning and sharing knowledge. Excellent team player.
 
 education:
-    - degree: Applied Informatics - Information Systems
+    - degree: Applied Informatics - Information Management Systems
       university: University of Macedonia (UoM)
       time: 2020 - present
       details: |
-        Skils: C, Algorithms, Management information systems, Data structures, Discrete mathematics, Data base with MySQL/MariaDB/PostgreSQL, Computer architecture, Computer networks, Operating systems, Object oriented programming, Procedural Programming, Financial accounting, Informatics Law and Ethics.                  
+        Skils: C, Algorithms, Management information systems, Information security systems, Data structures, Discrete mathematics, Databases with MySQL/MariaDB/PostgreSQL, Computer architecture, Computer networks, Operating systems, Object oriented programming, Procedural Programming, Financial accounting, Informatics Law and Ethics.                  
 
 #experiences:
 
@@ -97,25 +98,25 @@ skills:
 
     toolset:
       - name: HTML5 & CSS
-        level: 95%
+        level: 75%
 
       - name: Python
         level: 80%
 
       - name: Java
-        level: 75%
+        level: 95%
 
       - name: C
         level: 80%
         
       - name: PHP
-        level: 40%             
+        level: 50%             
 
       - name: Git
         level: 90%
 
       - name: Docker
-        level: 50%
+        level: 70%
 
       - name: SQL
         level: 80%          
