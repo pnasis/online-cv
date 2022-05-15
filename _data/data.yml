@@ -7,26 +7,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Efstathios Iosifidis, DVM
-    tagline: Junior Software Developer, Content Creator, Open Source Community Building
+    name: Prodromos Nasis
+    tagline: Junior Software Developer, Open Source Community Building, Cyber Securty enthusiast.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: stathis@iosifidis.gr
-    phone: +306999311075
+    email: prodromos.nasis@gmail.com
+    #phone: +306999311075
     citizenship: Greek
-    website: iosifidis.gr #do not add http://
-    linkedin: eiosifidis
+    #website: iosifidis.gr #do not add http://
+    linkedin: Prodromos Nasis
     xing: 
-    github: iosifidis
-    telegram: iosifidis # add your nickname without '@' sign
-    gitlab: eiosifidis
+    github: pnasis
+    #telegram: iosifidis # add your nickname without '@' sign
+    gitlab: pnasis
     bitbucket:
-    twitter: '@eiosifidis'
+    twitter: '@ProdromosNasis'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://iosifidis.github.io/online-cv/files/Efstathios_Iosifidis_Resume.pdf
+    #pdf: http://iosifidis.github.io/online-cv/files/Efstathios_Iosifidis_Resume.pdf
 
     languages:
       - idiom: Greek
@@ -42,68 +42,27 @@ sidebar:
 
       - item: Technology
         link:
-
-      - item: openSUSE
-        link: https://www.opensuse.org/
-
-      - item: GNOME
-        link: https://www.gnome.org/
-
-      - item: Nextcloud
-        link: https://www.nextcloud.com/
         
-      - item: GNU Health
-        link: https://www.gnuhealth.org/  
+      - item: Cyber Security
 
 
 career-profile:
     title: Career Profile
     summary: |
-      Cloud enthusiast, religious about Linux, open-source supporter. Writes human-readable code. Passionate open-source content creator. Loves learning and sharing knowledge. Excellent team player.
-
+      Cloud enthusiast, open-source supporter. Writes human-readable code. Loves learning and sharing knowledge. Excellent team player.
 education:
     - degree: Applied Informatics - Information Systems
       university: University of Macedonia (UoM)
       time: 2020 - present
       details: |
-        Skils: C, Algorithms, Mathematical analysis, Linear algebra, Computer systems, Management information systems, Introduction to computer science, Data structures with C, Discrete mathematics, Data base with MySQL, Computer architecture, Probabilities and statistics, Management and technology, Computer networks, Information systems, Operating systems, Object oriented programming, Financial accounting, E-Business, Informatics Law and Ethics.	
-    - degree: Junior Software Developer
-      university: 6th Vocational School of Thessaloniki
-      time: 2017 - 2020
-      details: |
-        Skils: Python, SQL, PHP, HTML, CSS
-    - degree: Veterinarian
-      university: Aristotele University of Thessaloniki
-      time: 2004 - 2017
-      details: |
-        Skils: Small and Farm animal pathologist, Food inspector
-    - degree: Farm Animal Manager
-      university: Technological Institution of Thessaloniki
-      time: 1993 - 1999
-      details: |
-        Skils: Farm management                    
+        Skils: C, Algorithms, Management information systems, Data structures, Discrete mathematics, Data base with MySQL/MariaDB/PostgreSQL, Computer architecture, Computer networks, Operating systems, Object oriented programming, Procedural Programming, Financial accounting, Informatics Law and Ethics.                  
+#experiences:
 
-experiences:
-    - role: Veterinarian
-      time: 2017 - Present
-      company: Freelancer, Thessaloniki
-      details: |
-        Pathologist, Anaesthesiologist, Web designer and content creator for many veterinary practices.
-    - role: Northern Greece rep
-      time: 2018 - Present
-      company: Petmobility.gr
-      details: |
-        Web page design and social media management. Representative in Northern Greece
-    - role: Office employee at wholesale warehouse
-      time: 2004 - 2005
-      company: Nino Toys, Thessaloniki
-      details: |
-        Invoicing and order preparation, contact with suppliers abroad for container preparation
-    - role: Military Service
-      time: 1999 - 2001
-      company: Greek Army
-      details: |
-        Confidential
+   # - role: Military Service
+     # time: 1999 - 2001
+     # company: Greek Army
+     # details: |
+       # Confidential
         
 projects:
     title: Volunteer
@@ -111,49 +70,9 @@ projects:
       My volunteer work for open source projects.
     assignments:
  
-      - title: FOSSCOMM organizing committee
-        link: "https://2021.fosscomm.gr/"
-        tagline: "FOSSCOMM is an annual conference organized by Greek Free/Open Source Software communities. Taking place in a different city every year, it welcomes open technology communities, companies and programmers."
-
-      - title: GUADEC organizing committee
-        link: "https://2019.guadec.org/"
-        tagline: "GUADEC, the GNOME Users And Developers European Conference, is an annual conference taking place in Europe, whose prime topic is the development of the GNOME desktop environment and its underlying base software."
-
       - title: Member of Open Source Team, University of Macedonia
         link: "http://opensource.uom.gr"
-        tagline: "Founding member of the open source team at University of Macedonia"
-    
-      - title: Raspberry Pi Greek translation coordinator
-        link: "http://rpf.io/translate"
-        tagline: "Link between Greek translators and Raspberry Pi Foundation"     
-
-      - title: Nextcloud Contributor, Greek translation coordinator, Engagement team, Event organization
-        link: "http://nextcloud.gr"
-        tagline: "Main activities: translation, speak at conferences, blogging about Nextcloud, organize events, volunteer at conferences"
-        
-      - title: GNOME Contributor, Greek translation coordinator, Engagement team, Event organization
-        link: "http://gnome.gr"
-        tagline: "Main activities: translation, speak at conferences, blogging about GNOME, organize events, volunteer at conferences"
-
-      - title: ownCloud Contributor, Greek translation coordinator, Engagement team, Event organization
-        link: "http://owncloud.com"
-        tagline: "Main activities: translation, speak at conferences, blogging about ownCloud, organize events, volunteer at conferences"
-        
-      - title: openSUSE Contributor, Greek translation coordinator, Advocate, Event organization
-        link: "http://opensuse.gr"
-        tagline: "Main activities: translation, speak at conferences, blogging about openSUSE, organize events, volunteer at conferences" 
-
-      - title: Member of the openSUSE Travel Support Program committee
-        link: "https://en.opensuse.org/openSUSE:Travel_Support_Program"
-        tagline: "The openSUSE Travel Support Program aims to support contributors representing openSUSE at events, conferences and hack-fests with their travel and hotel costs."
-
-      - title: GNU Health contributor
-        link: "https://www.gnuhealth.org/"
-        tagline: "The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine."
-
-      - title: Google Summer of Code mentor
-        link: "https://summerofcode.withgoogle.com/projects/#4606264338808832"
-        tagline: "<b>Title:</b> The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options. <b>Student:</b> Fani Dimou"
+        tagline: "Dev team member of the open source team at University of Macedonia"
 
 publications:
     title: Certifications
@@ -161,25 +80,15 @@ publications:
       My major certifications among others.
     papers:
     
-      - title: "CyberOps Associate"
-        link: "https://www.credly.com/badges/460b76d9-0f9f-4d99-889d-1d2f6c24dd4a"
-        authors: Cisco
-        conference: "Cisco"    
-    
-      - title: "Basic principles of digital marketing"
-        link: "#"
-        authors: Google
-        conference: "Google"
-
-      - title: "Gamification as tool for health professionals for psychosomatic support of patients"
-        link: "https://6epal-esp-thess.gr/article.php?id=20"
-        authors: ERASMUS +
-        conference: "ERASMUS +"
-        
-      - title: "Quality assurance at small industry and food industry (HACCP-ISO 9000,14000-AGRO 2.1-2.2)"
-        link: "https://www.afs.edu.gr/"
-        authors: American Farm School
-        conference: "American Farm School"        
+     # - title: "CyberOps Associate"
+      #  link: "https://www.credly.com/badges/460b76d9-0f9f-4d99-889d-1d2f6c24dd4a"
+       # authors: Cisco
+       # conference: "Cisco"    
+      
+      - title: Ethical Hacking
+        link:
+        authors: Audax Cyber Security
+        conference: Audax        
 
 skills:
     title: Skills &amp; Proficiency
