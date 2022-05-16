@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Prodromos Nasis
-    tagline: Junior Software Developer, Open Source Community Building, Cyber Securty enthusiast.
+    tagline: Junior Software Developer, Open Source Community Building, Cyber Security enthusiast.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: prodromos.nasis@gmail.com
-    #phone: +306999311075
+    #phone: +3069...
     citizenship: Greek
-    #website: iosifidis.gr #do not add http://
+    #website: pnasis.gr #do not add http://
     linkedin: Prodromos Nasis
     xing: 
     github: pnasis
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://iosifidis.github.io/online-cv/files/Efstathios_Iosifidis_Resume.pdf
+    #pdf: http://pnasis.github.io/online-cv/files/Prodromos_Nasis_Resume.pdf
 
     languages:
       - idiom: Greek
