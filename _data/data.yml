@@ -116,7 +116,7 @@ skills:
         level: 90%
 
       - name: Docker
-        level: 70%
+        level: 60%
 
       - name: SQL
         level: 80%          
