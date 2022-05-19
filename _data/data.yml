@@ -61,9 +61,9 @@ education:
 
 #experiences:
 
-   # - role: Military Service
-     # time: 1999 - 2001
-     # company: Greek Army
+   # - role: 
+     # time: 
+     # company: 
      # details: |
        # Confidential
         
@@ -81,12 +81,7 @@ publications:
     title: Certifications
     intro: |
       My major certifications among others.
-    papers:
-    
-     # - title: "CyberOps Associate"
-      #  link: "https://www.credly.com/badges/460b76d9-0f9f-4d99-889d-1d2f6c24dd4a"
-       # authors: Cisco
-       # conference: "Cisco"    
+    papers:    
       
       - title: Ethical Hacking
         link:
