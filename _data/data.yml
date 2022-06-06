@@ -77,8 +77,8 @@ projects:
         tagline: "Dev team member of the open source team at University of Macedonia"
         
       - title: Personal Projects
-        summary: |
-            Some important projects that I made is a <b>Password Manager<b>, a <b>Crime Net simulation<b>, an Informations System called <b>REStore<b>, that uses AI to make a decision about which renewable energy source must be used. I currently working in Open Source team of my university in order to create a wep app for my university.
+        tagline:
+            "Some important projects that I made is a <b>Password Manager<b>, a <b>Crime Net simulation<b>, an Informations System called <b>REStore<b>, that uses AI to make a decision about which renewable energy source must be used. I currently working in Open Source team of my university in order to create a wep app for my university."
       
 
 publications:
