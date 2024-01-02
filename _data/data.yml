@@ -33,14 +33,14 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional (C2)
+        level: Professional - C2
 
 
     interests:
       - item: Traveling
         link:
 
-      - item: Technology
+      - item: Cybersecurity
         link:
         
       - item: Music
@@ -59,16 +59,15 @@ education:
       details: |
         Skils: C, Algorithms, Management information systems, Information security systems, Data structures, Discrete mathematics, Databases with MySQL/MariaDB/PostgreSQL, Computer architecture, Computer networks, Operating systems, Object oriented programming, Procedural Programming, Financial accounting, Informatics Law and Ethics.                  
 
-#experiences:
-
-   # - role: 
-     # time: 
-     # company: 
-     # details: |
-       # Confidential
+experiences:
+    - role: Software Engineer
+      time: 2021-2022
+      company: Open Source Team, University of Macedonia
+      details: |
+        Worked as a developer in the Open Source UoM team, contributing to both the creation and ongoing maintenance of the myUoM WebApp.
         
 projects:
-    title: Volunteer work & Personal Projects
+    title: Projects
     intro: >
       My volunteer work for open source projects & my personal projects.
     assignments:
