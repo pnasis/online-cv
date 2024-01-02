@@ -83,28 +83,23 @@ projects:
 publications:
     title: Certifications
     intro: |
-      My major certifications among others.
+      My major certifications.
     papers:    
       
-      - title: Ethical Hacking
-        link:
-        authors: Audax Cyber Security
-        conference: Audax
+      - title: Google Cybersecurity Certificate
+        link: https://www.credly.com/badges/e9ef1d02-bfa6-400a-9ec4-344d1d0eda04
+        authors: Google
+        conference: Google
 
-      - title: KeyCERT
-        link:
-        authors:
-        conference:
+      - title: Mastering SQL Injection - The Ultimate Hands-On Course
+        link: https://www.udemy.com/certificate/UC-c18185e8-7c1d-4870-a31f-06301ead1561/
+        authors: Udemy
+        conference: Udemy
         
-      - title: ECCE (B2)
-        link:
-        authors: University of Michigan
-        conference:
-        
-      - title: LRN Level 3 Certificate in ESOL International (CEF C2)
-        link:
-        authors: LRN
-        conference:
+      - title: Mastering Authentication Vulnerabilities - Ultimate Course
+        link: https://www.udemy.com/certificate/UC-87ebe126-91bc-4d2b-88c8-15938187811e/
+        authors: Udemy
+        conference: Udemy
           
 
 skills:
