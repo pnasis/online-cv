@@ -69,15 +69,22 @@ experiences:
 projects:
     title: Projects
     intro: >
-      My volunteer work for open source projects & my personal projects.
+      My personal projects.
     assignments:
-      - title: Member of Open Source Team, University of Macedonia
-        link: "http://opensource.uom.gr"
-        tagline: "Dev team member of the open source team at University of Macedonia"
-        
-      - title: Personal Projects
-        tagline:
-            "Some important projects that I made is a <b>Password Manager</b>, a <b>Crime Net simulation</b> and an Informations System called <b>REStore</b>, that uses AI to make a decision about which renewable energy source must be used. I currently working with UOM Open Source team in order to create a wep app for my university."
+      - title: myUoM University App
+        link: "https://my.uom.gr/"
+        tagline: "Member of the development team."
+      
+      - title: Scylla Vulnerability Scanner
+        # link:
+        tagline: "A vulnerability scanner tool, created using Python programming language, aiming to identify vulnerabilities on web applications."
+
+      - title: Network PenTesting Tools
+        # link:
+        tagline: "This suite includes a packet analyzer, a port scanner and other tools."
+
+      - title: Home Server
+        tagline: "Raspberry Pi home server running Wireguard VPN, Pi Hole with Unbound recursive DNS server and Nextcloud as a private cloud storage."
       
 
 publications:
