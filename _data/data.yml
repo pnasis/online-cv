@@ -106,35 +106,38 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5 & CSS
-        level: 75%
-
-      - name: Python
-        level: 80%
-
-      - name: Java
+      - name: Linux
         level: 95%
 
-      - name: C
-        level: 80%
-        
-      - name: PHP
-        level: 50%             
-
-      - name: Git
+      - name: Python
         level: 90%
 
-      - name: Docker
-        level: 60%
+      - name: Threat Analysis
+        level: 80%
+
+      - name: Incident Response
+        level: 90%
+        
+      - name: Security Hardening
+        level: 75%             
+
+      - name: Cryptography
+        level: 85%
+
+      - name: Security Audits
+        level: 70%
 
       - name: SQL
         level: 80%          
 
-      - name: Linux
-        level: 95%  
+      - name: C
+        level: 85%  
 
-      - name: UML
-        level: 60%      
+      - name: Virtualization
+        level: 95%
+
+      - name: Git
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
