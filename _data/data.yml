@@ -112,6 +112,21 @@ skills:
       - name: Python
         level: 90%
 
+      - name: SQL
+        level: 80%          
+
+      - name: C
+        level: 85%
+
+      - name: Git
+        level: 95%
+
+      - name: Cryptography
+        level: 90%
+
+      - name: Virtualization
+        level: 95%
+
       - name: Threat Analysis
         level: 80%
 
@@ -121,23 +136,9 @@ skills:
       - name: Security Hardening
         level: 75%             
 
-      - name: Cryptography
-        level: 85%
-
       - name: Security Audits
-        level: 70%
+        level: 75%
 
-      - name: SQL
-        level: 80%          
-
-      - name: C
-        level: 85%  
-
-      - name: Virtualization
-        level: 95%
-
-      - name: Git
-        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
