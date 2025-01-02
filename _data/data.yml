@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Prodromos Nasis
-    tagline: University student, Upcoming Security Engineer.
+    tagline: University student, Upcoming Cybersecurity analyst.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: prodromos.nasis@gmail.com
     #phone: +3069...
     citizenship: Greek
-    #website: pnasis.gr #do not add http://
+    website: pnasis.com #do not add http://
     linkedin: prodromos-nasis
     xing: 
     github: pnasis
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: 19197148/pnasis
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://pnasis.github.io/online-cv/files/Prodromos_Nasis_Resume.pdf
+    #pdf: http://pnasis.github.io/online-cv/files/Prodromos_Nasis_CV.pdf
 
     languages:
       - idiom: Greek
@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Detail-oriented student with a strong passion for the cybersecurity field, dedicated to protecting organizations and the people they serve.
+      Recent graduate with a strong passion for the cybersecurity field, especially the field of Digital Forensics and Incident Response (DFIR), dedicated to protecting organizations and the people they serve. I am a continuous learner and I am committed to staying up to date with the latest news and trends in the field of cybersecurity.
 
 education:
     - degree: Applied Informatics - Information Management Systems
